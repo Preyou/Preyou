@@ -1,0 +1,24 @@
+{
+  "name": "Preyou",
+  "version": "1.0.0",
+  "description": "---\r ## **说明**：此为毕业设计，大概布局为仿word。主要使用前端技术实现图文编辑，主要使用框架为vue(学习中)。",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preyou/Preyou.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Preyou/Preyou/issues"
+  },
+  "homepage": "https://github.com/Preyou/Preyou#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}

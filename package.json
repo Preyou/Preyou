@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Preyou/Preyou#readme",
   "dependencies": {
+    "bootstrap": "^4.4.1",
     "jquery": "^3.4.1"
   }
 }

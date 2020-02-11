@@ -1,3 +1,19 @@
-# 图文编辑系统
----
-## **说明**：此为毕业设计，大概布局为仿word。主要使用前端技术实现图文编辑，主要使用框架为vue(学习中)。
+# preyou
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
